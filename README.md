@@ -1,4 +1,6 @@
-# chaseAshbySeniorDesign
+# ChaseAshbySeniorDesign
+
+# Table of Contents
 
 ## Team Members
 * Chase Ashby
