@@ -12,7 +12,7 @@
 * Fred Annexstein 
 
 ## Work Completed
-* Completed upwards of 15 hours doing research on covid channels.
+* Completed upwards of 15 hours doing research on covert channels.
 * Spent 5-6 hours designing the network covert channel.
 * Spent 10 hours creating the receiving side and setting up an environment.
 * Spent 5 hours on the implementation of the sending side.
